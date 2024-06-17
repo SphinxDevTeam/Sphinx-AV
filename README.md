@@ -1,4 +1,5 @@
 # Welcome to Sphinx-AV!
+Credits to Yuskel for the original code
 
 Embark on a journey of innovation with Sphinx AV, the open source antivirus solution brought to you by the Sphinx development team. Our mission is to empower the community with a robust and accessible cybersecurity tool.
 
