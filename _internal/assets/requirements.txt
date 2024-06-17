@@ -1,0 +1,5 @@
+pefile
+requests
+Pillow
+customtkinter
+pytm
