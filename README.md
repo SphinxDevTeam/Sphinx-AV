@@ -14,7 +14,6 @@ Sphinx AV isn't just an antivirus; it's a testament to the power of collective c
 ## What's Next?
 While our current version serves as a solid foundation, the horizon is bright with the upcoming official release of the new Sphinx AV from Sphinx Labs. Keep an eye out for the future of cybersecurity, shaped by your hands.
 
-Join us in forging a safer digital world, one line of code at a time.
 ---
 
 ### Links
